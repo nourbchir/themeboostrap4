@@ -1,0 +1,165 @@
+.navbar{
+    background-color:darkslategrey;
+
+}
+.navbar .navbar-brand{
+    color:darkblue;
+}
+.navbar .navbar-brand:hover{
+    color:deeppink;
+    font-size: 30px;
+    font-style: italic;
+}
+.navbar .nav-link{
+    color:whitesmoke;
+}
+img{
+    width:100%;
+}
+.services{
+padding:40px;
+}
+.services h1{
+    text-align: center;
+    color:cadetblue;
+}
+.services i{
+    color:cadetblue;
+}
+.services .paragraph{
+    font-size:15px;
+    color:gray;
+}
+.lorem{
+    padding:40px;
+}
+.lorem h1{
+    text-align: center;
+    color:cornflowerblue;
+    margin-bottom:20px;
+}
+.lorem i{
+    color:cadetblue;
+}
+.patients{
+    border:50px solid white;
+    background-color:gray;
+    padding:50px 50px 50px 100px;
+}
+.patients h1{
+    text-transform: uppercase;
+    text-align:left;
+    margin-bottom:20px;
+}
+.patients p{
+    margin-top:20px;
+    color:gray;
+    background-color: white;
+}
+.patients img{
+    width:25%;
+}
+.facility h1{
+text-align: center;
+}
+.facility p{
+    text-align: center;
+}
+.facility img{
+
+    margin-left:1px;
+    margin-right:1px;
+    margin-top:20px;
+    width:100%;
+
+}
+.word{
+
+    background-color:gray;
+    border:20px solid white;
+    color:white;
+    margin-top:5px;
+    padding:70px 50px 70px 50px;
+    text-align: center;
+}
+
+.contact {
+    margin-top: 80px;
+}
+.contact h1 {
+    color: #1c7430;
+}
+.contact h5 {}
+.contact i {
+
+}
+
+.contact .span2 {
+    margin-left: 25px
+}
+
+.contact input[type=text]{
+    padding: 12px 400px 1px 2px;
+    border:1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+.contact input[type=submit]{
+    background-color:blue;
+    color: aliceblue;
+    padding: 14px 30px;
+    margin-left: 100px;
+    margin-bottom:40px;
+    border:none;
+    border-radius: 4px;
+}
+.footer{
+    margin-top:10px;
+    /*border:25px solid white;*/
+    background-color: #0c5460;
+    padding:50px 20px 20px 20px;
+    color: white;
+}
+.footer .p1{
+    text-align: center;
+}
+.footer i{
+    margin-top:10px;
+    color:cornflowerblue;
+}
+.footer ul li {
+    margin-bottom: -20px;
+}
+.our{
+    margin-top: 20px;
+}
+.our h1{
+    color: blue;
+}
+.our i{
+
+    color: blue;
+}
+.care{
+    margin-top: 20px;
+}
+.care h5{
+    margin-top: 10px;
+}
+.care ul li{
+    margin-bottom: -10px;
+}
+.emergency{
+    background-color:deepskyblue;
+    color: white;
+
+}
+.emergency h2{
+    margin-left: 10px;
+}
+.emergency p{
+    margin-left: 10px;
+}
+.emergency .border{
+    margin-left: 10px;
+}
